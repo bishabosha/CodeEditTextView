@@ -18,8 +18,8 @@ let package = Package(
             from: "0.5.3"
         ),
         .package(
-            url: "https://github.com/CodeEditApp/CodeEditLanguages.git",
-            exact: "0.1.13"
+            url: "https://github.com/bishabosha/CodeEditLanguages.git",
+            branch: "feat/scala"
         ),
         .package(
             url: "https://github.com/lukepistrol/SwiftLintPlugin",

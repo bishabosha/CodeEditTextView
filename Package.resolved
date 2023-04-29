@@ -3,10 +3,10 @@
     {
       "identity" : "codeeditlanguages",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CodeEditApp/CodeEditLanguages.git",
+      "location" : "https://github.com/bishabosha/CodeEditLanguages.git",
       "state" : {
-        "revision" : "08cb9dc04e70d1e7b9610580794ed4da774c2b84",
-        "version" : "0.1.13"
+        "branch" : "feat/scala",
+        "revision" : "c676034172e0cb53a10011e6618af1c2851aaaca"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/STTextView",
       "state" : {
-        "revision" : "41c7c87a552e6286ebea5f348e820b529c6f5662",
-        "version" : "0.4.2"
+        "revision" : "77a37aed80277467990c2c8d224ed951899446f0",
+        "version" : "0.6.0"
       }
     },
     {
